@@ -1,0 +1,18 @@
+[
+    {
+        "empname": "John Doe",
+        "empid": "E001"
+    },
+    {
+        "empname": "Jane Smith",
+        "empid": "E002"
+    },
+    {
+        "empname": "Alice Johnson",
+        "empid": "E003"
+    },
+    {
+        "empname": "Bob Brown",
+        "empid": "E004"
+    }
+]
