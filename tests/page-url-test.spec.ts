@@ -42,6 +42,6 @@ test('Page Title Verification', async ({ page }) => {
 
     await expect.soft(page).toHaveTitle(/.*AskOmDch/);
     expect.soft(await page.title()).toContain('AskOm')
-})
+});
 
 
